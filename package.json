@@ -2,6 +2,7 @@
   "name": "react-toolkit",
   "version": "0.1.0",
   "private": true,
+  "description": "A react toolkit with extra dependencies added on top of create-react-app boiler plate in order to make your development life easier. This will help you kickstart implementing actual logic of your project rather than focusing on configuring initial and redundant dependencies every time you start a new project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
